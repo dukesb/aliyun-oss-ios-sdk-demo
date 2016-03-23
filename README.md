@@ -1,2 +1,4 @@
 # aliyun-oss-ios-sdk-demo
-aliyun-oss-ios-sdk demo in Swift
+Aliyun OSS SDK demo in Swift
+
+![alt text](https://raw.githubusercontent.com/dukesb/aliyun-oss-ios-sdk-demo/master/images/alioss.gif "OSS Demo")
